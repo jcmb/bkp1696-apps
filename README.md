@@ -1,6 +1,6 @@
 # bkp1696-apps
  Applications for the BKP169x power supplies, which uses the psup library from [Adrian Sampson's] (https://github.com/sampsyo/) github bkp1696
- [project] (https://github.com/sampsyo/bkp1696/). With a local [copy](https://github.com/jcmb/bkp1696) if needed.
+ [project](https://github.com/sampsyo/bkp1696/). With a local [copy](https://github.com/jcmb/bkp1696) if needed.
  
  There are 3 tools in the suite.
  
